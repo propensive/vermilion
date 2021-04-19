@@ -1,4 +1,4 @@
-package hydrargyrum
+package vermilion
 
 import com.sendgrid._, helpers.mail._, objects._
 

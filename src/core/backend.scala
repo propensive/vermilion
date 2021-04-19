@@ -1,4 +1,4 @@
-package hydrargyrum
+package vermilion
 
 import rudiments._
 
